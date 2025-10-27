@@ -13,7 +13,7 @@ Foco: aplicar **Applied Cognitive Task Analysis (ACTA)** — **Task Diagram Inte
 ## 🔗 Materiais essenciais
 
 * **Apresentação da oficina** → [Clique aqui](https://docs.google.com/presentation/d/1arZ31niw6eXplWi98n55VgYpco3U-ZHPbA5YpG_kmiw/edit?usp=sharing)
-* * **Roteiro de entrevistas** → [Clique aqui](https://docs.google.com/document/d/12LCiQjVcSFUqQ6uK2QXE6PdbUQnSQhCKUcocsgorj4I/edit?usp=sharing)
+* **Roteiro de entrevistas** → [Clique aqui](https://docs.google.com/document/d/12LCiQjVcSFUqQ6uK2QXE6PdbUQnSQhCKUcocsgorj4I/edit?usp=sharing)
 * **Planilha de TDI e KA** → [Clique aqui](https://docs.google.com/spreadsheets/d/13nsfSRa1U-zbv6XyV_0zwDCWnXy1740AH2y062i8TGI/edit?usp=sharing)
 * **Gerador de A‑SPECs** → [Clique aqui](https://chatgpt.com/g/g-68f5521a3f848191b3427b6ff6aebc0c-gerador-de-a-specs)
 
